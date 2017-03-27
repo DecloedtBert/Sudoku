@@ -10,5 +10,5 @@ package SudokuPackage;
  * @author Bert
  */
 public class Sudoku {
-    
+    String tester;
 }
