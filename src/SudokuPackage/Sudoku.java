@@ -12,6 +12,7 @@ package SudokuPackage;
 public class Sudoku {
     int tester = 20;
     String tester2 = "test test test";
+    String tester3 = "test test test test";
     
     public int testerteruggeven(){
         return tester;
