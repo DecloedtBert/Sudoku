@@ -10,5 +10,14 @@ package SudokuPackage;
  * @author Bert
  */
 public class Sudoku {
-    String tester;
+    int tester = 20;
+    
+    public int testerteruggeven(){
+        return tester;
+    }
+    
+    public int plus(int a, int b){
+        int res = a + b;
+        return res;
+    }
 }
